@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LM3405
-D 1.6MHz, 1A Constant Current Buck Regulator for Powering LEDs
-$ENDCMP
-#
-#End Doc Library
