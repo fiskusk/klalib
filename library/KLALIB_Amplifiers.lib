@@ -1,4 +1,21 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# LTC6101AHS5
+#
+DEF LTC6101AHS5 U 0 40 Y Y 1 F N
+F0 "U" -50 -250 50 H V C CNN
+F1 "LTC6101AHS5" 150 -350 50 H V C CNN
+F2 "Package_TO_SOT_SMD:SOT-23-5" 450 -700 50 H I C CNN
+F3 "http://cds.linear.com/docs/en/datasheet/6101fh.pdf" 50 -900 50 H I C CNN
+DRAW
+P 4 1 1 10 -300 -300 100 -500 -300 -700 -300 -300 f
+X OUT 1 200 -500 100 L 50 50 1 1 O
+X V- 2 -200 -800 150 U 50 50 1 1 W
+X - 3 -400 -600 100 R 50 50 1 1 I
+X + 4 -400 -400 100 R 50 50 1 1 I
+X V+ 5 -200 -200 150 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 #End Library
