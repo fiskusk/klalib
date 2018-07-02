@@ -1,0 +1,10 @@
+# list of files
+*.bak
+*.bck
+*.tags*
+
+# list of folders
+tmp
+.venv
+freecad-scripts
+kicad-library-utils
