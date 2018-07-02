@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP2951ACD-3.3R2G
+D 100 mA, Low Power Low, LDO, 0.5%, 3V3
+K LDO, regulator, linear
+F https://www.tme.eu/cz/Document/4e0128c929221699b6458473d1844680/lp2950_1.PDF
+$ENDCMP
+#
+#End Doc Library

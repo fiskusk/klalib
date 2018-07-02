@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ2407x
+D 1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
+$ENDCMP
+#
 #End Doc Library
