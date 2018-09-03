@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8835
+D Dual Low-Voltage H-Bridge IC, 1.5A Low Voltage Stepper or Single/Dual Brushed DC Motor Driver w/ Dual Supplies (PWM or PH/EN Ctrl)
+$ENDCMP
+#
+$CMP DRV8836
+D 1.5A Low Voltage Stepper or Single/Dual Brushed DC Motor Driver w/ Dual Supplies (PWM or PH/EN Ctrl)
+$ENDCMP
+#
+$CMP DRV8837
+D 1.8A Low Voltage Brushed DC Motor Driver (PWM Ctrl)
+$ENDCMP
+#
+$CMP DRV8837C
+D 1A Low-Voltage H-Bridge Driver
+$ENDCMP
+#
+#End Doc Library

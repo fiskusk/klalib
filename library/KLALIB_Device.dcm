@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSD840
+D Dual NMOS/NMOS transistor, 6-pin package, SOT-363
+K dual nmosfet nmos/nmos
+F https://www.tme.eu/cz/Document/bae9c1c6c290a196882f0a9b3fa5b5e9/BSD840NH6327XTSA1.pdf
+$ENDCMP
+#
+$CMP BSD840N
+D Dual NMOS/NMOS transistor, 6-pin package, SOT-363
+K dual nmosfet nmos/nmos
+F https://www.tme.eu/cz/Document/bae9c1c6c290a196882f0a9b3fa5b5e9/BSD840NH6327XTSA1.pdf
+$ENDCMP
+#
+$CMP DMG1023UV
+D Dual NMOS/NMOS transistor, 6-pin package, SOT-563 
+K dual nmosfet nmos/nmos
+F https://www.diodes.com/assets/Datasheets/ds31974.pdf
+$ENDCMP
+#
+$CMP Q_DUAL_NMOS_G1S2G2D2S1D1
+D Dual NMOS/NMOS transistor, 6-pin package
+K dual nmosfet nmos/nmos
+F ~
+$ENDCMP
+#
+#End Doc Library

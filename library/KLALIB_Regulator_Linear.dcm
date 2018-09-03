@@ -6,4 +6,10 @@ K LDO, regulator, linear
 F https://www.tme.eu/cz/Document/4e0128c929221699b6458473d1844680/lp2950_1.PDF
 $ENDCMP
 #
+$CMP LP5907MFX-2.8
+D 250-mA Ultra-Low-Noise Low-IQ LDO
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
 #End Doc Library

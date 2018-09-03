@@ -4,4 +4,8 @@ $CMP TPS6123x
 D  High Efficiency Synchronous Step Up Converters with 5-A Switches
 $ENDCMP
 #
+$CMP TPS650250
+D Configurable Integrated Power Management (PMIC) with 3 DC/DC converters and 3 LDOs
+$ENDCMP
+#
 #End Doc Library

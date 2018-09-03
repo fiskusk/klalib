@@ -1,7 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP BQ2407x
+$CMP BQ24073
 D 1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
+$ENDCMP
+#
+$CMP BQ25896
+D I2C Controlled Single Cell 3-A Fast Charger with MaxChargeTM Technology for High Input Voltage and Adjustable Voltage USB On-the-Go Boost Mode
 $ENDCMP
 #
 #End Doc Library
