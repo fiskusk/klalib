@@ -12,4 +12,10 @@ K Single Output LDO Low-Noise
 F http://www.ti.com/lit/ds/symlink/lp5907.pdf
 $ENDCMP
 #
+$CMP MC78M09C
+D 500 mA Positive Voltage, Fixed Output 9V, SO-8
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
 #End Doc Library
