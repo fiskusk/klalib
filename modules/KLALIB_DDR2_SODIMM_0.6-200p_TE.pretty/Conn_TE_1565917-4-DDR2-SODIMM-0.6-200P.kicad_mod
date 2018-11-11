@@ -1,4 +1,4 @@
-(module Conn_TE_1565917-4-DDR2-SODIMM-0.6-200P (layer F.Cu) (tedit 5BD34A8C)
+(module Conn_TE_1565917-4-DDR2-SODIMM-0.6-200P (layer F.Cu) (tedit 5BE337D3)
   (fp_text reference REF** (at 1.2 0 90) (layer F.Fab)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
@@ -306,6 +306,7 @@
   (pad 198 smd rect (at 4.099999 31.05) (size 2 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 199 smd rect (at -4.1 31.35) (size 2 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 200 smd rect (at 4.099999 31.65) (size 2 0.35) (layers F.Cu F.Paste F.Mask))
+  (pad "" np_thru_hole circle (at 26.8605 -30.861) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask))
   (model "${MY_3DMOD}/User Library-compute_module.step"
     (offset (xyz 0.2 -33.9 4))
     (scale (xyz 0 0 0))

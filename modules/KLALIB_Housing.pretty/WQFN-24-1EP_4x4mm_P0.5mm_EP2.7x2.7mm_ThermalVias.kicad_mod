@@ -1,4 +1,4 @@
-(module WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias (layer F.Cu) (tedit 5B863349)
+(module WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias (layer F.Cu) (tedit 5BE2A0A4)
   (descr http://www.ti.com/lit/ml/mpqf167b/mpqf167b.pdf)
   (tags WQFN)
   (attr smd)
@@ -222,5 +222,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${MY_3DMOD}/User Library-WQFN-24.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
   )
 )
