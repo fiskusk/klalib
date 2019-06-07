@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ERA-33SM
+D Monolitic Amplifier, DC-3 GHz, 50ohm
+F https://ww2.minicircuits.com/pdfs/ERA-33SM+.pdf
+$ENDCMP
+#
 #End Doc Library

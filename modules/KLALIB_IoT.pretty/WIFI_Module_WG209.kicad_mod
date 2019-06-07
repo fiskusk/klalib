@@ -1,4 +1,4 @@
-(module WIFI_Module_WG209 (layer F.Cu) (tedit 5BE2A311)
+(module WIFI_Module_WG209 (layer F.Cu) (tedit 5C0FF345)
   (descr http://www.skylabmodule.com/wp-content/uploads/SkyLab_WG209_V2.04_datasheet.pdf)
   (tags "802.11b/g/n USB WiFi Module")
   (fp_text reference REF** (at 0.1016 -8.5852) (layer F.SilkS)
@@ -47,8 +47,8 @@
   (pad 7 smd oval (at 15 -1) (size 2.5 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd oval (at 15 1) (size 2.5 1.35) (layers F.Cu F.Paste F.Mask))
   (model ${MY_3DMOD}/wg209_wifi_module.STEP
-    (offset (xyz -15 7.5 0))
-    (scale (xyz 0.68 1 0.9))
-    (rotate (xyz -90 0 90))
+    (offset (xyz -15 -7.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )

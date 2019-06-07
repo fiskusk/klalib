@@ -13,7 +13,7 @@ F https://www.tme.eu/cz/Document/bae9c1c6c290a196882f0a9b3fa5b5e9/BSD840NH6327XT
 $ENDCMP
 #
 $CMP DMG1023UV
-D Dual NMOS/NMOS transistor, 6-pin package, SOT-563 
+D Dual NMOS/NMOS transistor, 6-pin package, SOT-563
 K dual nmosfet nmos/nmos
 F https://www.diodes.com/assets/Datasheets/ds31974.pdf
 $ENDCMP
@@ -21,6 +21,12 @@ $ENDCMP
 $CMP Q_DUAL_NMOS_G1S2G2D2S1D1
 D Dual NMOS/NMOS transistor, 6-pin package
 K dual nmosfet nmos/nmos
+F ~
+$ENDCMP
+#
+$CMP Transformer_1P-1_5_2S-7_6-9_10
+D Transformer, single primary, dual secondary
+K transformer coil magnet
 F ~
 $ENDCMP
 #

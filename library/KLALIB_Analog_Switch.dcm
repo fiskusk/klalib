@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG704
+D CMOS, Low Voltage, 4 Channel Multiplexer, 10-lead uSOIC
+K CMOS, Switch, Multiplexer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG704.pdf
+$ENDCMP
+#
+$CMP HMC284AMS8G
+F https://www.psemi.com/pdf/datasheets/pe4251ds.pdf
+$ENDCMP
+#
+$CMP PE4251
+F https://www.psemi.com/pdf/datasheets/pe4251ds.pdf
+$ENDCMP
+#
+#End Doc Library
