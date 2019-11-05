@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DBTC-17-5+
+D Directional Couplers, 50Ω, 17dB coupling, 50 to 2000 MHz
+K Directional Coupler, bridge
+F https://www.minicircuits.com/pdfs/DBTC-17-5+.pdf
+$ENDCMP
+#
 $CMP Q_NMOS_DSG
 D Transistor N-MOSFET with substrate diode (general)
 K NMOS n-mos n-mosfet transistor
