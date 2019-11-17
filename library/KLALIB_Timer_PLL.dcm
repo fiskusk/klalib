@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX2871
+D 23.5MHz to 6000MHz Fractional/Integer-N Synthesizer/VCO PLL, TQFN-EP-32
+K fractional-N integer-N PLL PLO
+F https://datasheets.maximintegrated.com/en/ds/MAX2871.pdf
+$ENDCMP
+#
+#End Doc Library
