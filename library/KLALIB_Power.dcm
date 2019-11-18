@@ -5,4 +5,14 @@ D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
 #
+$CMP VDDA
+D Power symbol creates a global label with name "VDDA"
+K power-flag
+$ENDCMP
+#
+$CMP VDDRF
+D Power symbol creates a global label with name "VDDA"
+K power-flag
+$ENDCMP
+#
 #End Doc Library
