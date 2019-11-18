@@ -2,7 +2,20 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP ERA-33SM
 D Monolitic Amplifier, DC-3 GHz, 50ohm
+K RF Amplifier
 F https://ww2.minicircuits.com/pdfs/ERA-33SM+.pdf
+$ENDCMP
+#
+$CMP GVA-63+
+D Monolitic Amplifier, 50Ω 0.01 to 6 GHz, High Gain 21dB@0.8GHz,+-1.7dB flat Gain in 50 to 4000MHz, P1dB 19.0 dBm typ. at 0.8 GHz, • High IP3, 35 dBm typ. at at 0.8 GHz
+K RF Amplifier
+F https://www.minicircuits.com/pdfs/GVA-63+.pdf
+$ENDCMP
+#
+$CMP LTC6101AHS5
+D High Voltage, High-Side Current Sense Amplifier in SOT-23
+K current sense amplifier
+F https://cz.mouser.com/datasheet/2/609/ltc6101.pdf_3fdomain_3dwww.linear-1271897.pdf
 $ENDCMP
 #
 #End Doc Library
