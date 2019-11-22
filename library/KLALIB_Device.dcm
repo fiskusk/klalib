@@ -12,6 +12,12 @@ K dual nmosfet nmos/nmos
 F https://www.tme.eu/cz/Document/bae9c1c6c290a196882f0a9b3fa5b5e9/BSD840NH6327XTSA1.pdf
 $ENDCMP
 #
+$CMP C_Kelvin
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP DMG1023UV
 D Dual NMOS/NMOS transistor, 6-pin package, SOT-563
 K dual nmosfet nmos/nmos
