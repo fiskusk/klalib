@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SYM_Arrow_Large
+D Filled arrow, 300mil
+K symbol arrow
+F ~
+$ENDCMP
+#
+$CMP SYM_Arrow_Large_bus
+D Filled arrow, 300mil
+K symbol arrow
+F ~
+$ENDCMP
+#
+$CMP SYM_Arrow_Large_bus_double_sided
+D Filled arrow, 300mil
+K symbol arrow
+F ~
+$ENDCMP
+#
+$CMP SYM_Arrow_Normal
+D Filled arrow, 200mil
+K symbol arrow
+F ~
+$ENDCMP
+#
+$CMP SYM_Arrow_Small
+D Filled arrow, 160mil
+K symbol arrow
+F ~
+$ENDCMP
+#
+#End Doc Library
