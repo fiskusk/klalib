@@ -1,0 +1,72 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SYM_Arrow_Large
+#
+DEF SYM_Arrow_Large #SYM 0 40 Y Y 1 F N
+F0 "#SYM" 0 90 50 H I C CNN
+F1 "SYM_Arrow_Large" 0 -80 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 4 0 1 0 150 0 50 -30 50 30 150 0 F
+X ~ ~ -50 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SYM_Arrow_Large_bus
+#
+DEF SYM_Arrow_Large_bus #SYM 0 40 Y Y 1 F N
+F0 "#SYM" 0 90 50 H I C CNN
+F1 "SYM_Arrow_Large_bus" 0 -80 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "~" 0 0 50 H I C CNN
+DRAW
+P 5 0 1 0 -50 25 -50 -25 50 -25 50 -75 150 0 N
+P 5 0 1 0 150 0 50 75 50 50 50 25 -50 25 N
+X ~ ~ -50 0 0 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SYM_Arrow_Large_bus_double_sided
+#
+DEF SYM_Arrow_Large_bus_double_sided #SYM 0 40 Y Y 1 F N
+F0 "#SYM" 0 90 50 H I C CNN
+F1 "SYM_Arrow_Large_bus_double_sided" 0 -80 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "~" 0 0 50 H I C CNN
+DRAW
+P 5 0 1 0 -250 0 -150 -75 -150 -50 -150 -25 -50 -25 N
+P 5 0 1 0 -50 -25 -50 -25 50 -25 50 -75 150 0 N
+P 5 0 1 0 -50 25 -50 25 -150 25 -150 75 -250 0 N
+P 5 0 1 0 150 0 50 75 50 50 50 25 -50 25 N
+ENDDRAW
+ENDDEF
+#
+# SYM_Arrow_Normal
+#
+DEF SYM_Arrow_Normal #SYM 0 40 Y Y 1 F N
+F0 "#SYM" 0 60 50 H I C CNN
+F1 "SYM_Arrow_Normal" 10 -50 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 4 0 1 0 100 0 30 -20 30 20 100 0 F
+X ~ ~ -50 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SYM_Arrow_Small
+#
+DEF SYM_Arrow_Small #SYM 0 40 Y Y 1 F N
+F0 "#SYM" 0 60 50 H I C CNN
+F1 "SYM_Arrow_Small" 10 -50 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 4 0 1 0 50 0 10 -20 10 20 50 0 F
+X ~ ~ -50 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
