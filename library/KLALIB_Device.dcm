@@ -24,6 +24,18 @@ K dual nmosfet nmos/nmos
 F https://www.diodes.com/assets/Datasheets/ds31974.pdf
 $ENDCMP
 #
+$CMP D_TVS
+D Bidirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+$CMP D_TVS_UNI
+D Unirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
 $CMP Q_DUAL_NMOS_G1S2G2D2S1D1
 D Dual NMOS/NMOS transistor, 6-pin package
 K dual nmosfet nmos/nmos

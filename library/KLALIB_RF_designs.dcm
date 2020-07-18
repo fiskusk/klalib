@@ -13,7 +13,7 @@ F ~
 $ENDCMP
 #
 $CMP XX1002-QH
-D Active Doubler, IN 2.5 - 6.0 / OUT 5.0 - 12.0 GHz, 50ohm, +16dBm, -35dBc fundamental leakage, +5V@125mA, 4mm QFN 24-lead package, 
+D Active Doubler, IN 2.5 - 6.0 / OUT 5.0 - 12.0 GHz, 50ohm, +16dBm, -35dBc fundamental leakage, +5V@125mA, 4mm QFN 24-lead package,
 K Doubler RF
 F https://cdn.macom.com/datasheets/XX1002-QH.pdf
 $ENDCMP

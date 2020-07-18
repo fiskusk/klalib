@@ -15,9 +15,15 @@ F https://www.psemi.com/pdf/datasheets/pe4251ds.pdf
 $ENDCMP
 #
 $CMP SN74LVC1G3157
-D Single-Pole Double-Throw Analog Switch, 1.65-V to 5.5-V VCC Operation, Operating Frequency Typically 340 MHz at Room, High Speed, Typically 0.5 ns, Low ON-State Resistance, Typically ≉6 Ω, 
+D Single-Pole Double-Throw Analog Switch, 1.65-V to 5.5-V VCC Operation, Operating Frequency Typically 340 MHz at Room, High Speed, Typically 0.5 ns, Low ON-State Resistance, Typically ≉6 Ω,
 K SPDT analog switch
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf
+$ENDCMP
+#
+$CMP block_symbol_switch
+D Single SPDT Monolithic LC²MOS Analog Switch, 25Ohm Ron, MSOP-8
+K CMOS Analog Switch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf
 $ENDCMP
 #
 #End Doc Library
