@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1261LIMS8-4#PBF
+D Switched Capacitor Regulated Voltage Inverter
+K Charge Pump switched capacitor regulator voltage inverter DCDC
+F https://cz.mouser.com/datasheet/2/609/1261lfa-1270523.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -36,6 +36,12 @@ K diode TVS thyrector
 F ~
 $ENDCMP
 #
+$CMP L_1_3
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
 $CMP Q_DUAL_NMOS_G1S2G2D2S1D1
 D Dual NMOS/NMOS transistor, 6-pin package
 K dual nmosfet nmos/nmos

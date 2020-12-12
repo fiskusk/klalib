@@ -1,3 +1,33 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CMPA0060002F1
+D 2 W, DC - 6.0 GHz, GaN MMIC Power Amplifier
+K GaN MMIC Power Amplifier
+F https://www.wolfspeed.com/media/downloads/1621/cmpa0060002f1.pdf
+$ENDCMP
+#
+$CMP ERA-33SM
+D Monolitic Amplifier, DC-3 GHz, 50ohm
+K RF Amplifier
+F https://ww2.minicircuits.com/pdfs/ERA-33SM+.pdf
+$ENDCMP
+#
+$CMP GVA-63+
+D Monolitic Amplifier, 50Ω 0.01 to 6 GHz, High Gain 21dB@0.8GHz,+-1.7dB flat Gain in 50 to 4000MHz, P1dB 19.0 dBm typ. at 0.8 GHz, • High IP3, 35 dBm typ. at at 0.8 GHz
+K RF Amplifier
+F https://www.minicircuits.com/pdfs/GVA-63+.pdf
+$ENDCMP
+#
+$CMP LTC6101AHS5
+D High Voltage, High-Side Current Sense Amplifier in SOT-23
+K current sense amplifier
+F https://cz.mouser.com/datasheet/2/609/ltc6101.pdf_3fdomain_3dwww.linear-1271897.pdf
+$ENDCMP
+#
+$CMP NBB-310
+D Cascadable Broadband GaAs MMIC Amplifier, 13dB Gain, High P1dB of +15.2dBm at 6GHz, Single Power Supply Operation, 50Ω I/O Matched for High
+K RF Amplifier
+F https://www.qorvo.com/products/p/NBB-310#overview
+$ENDCMP
+#
 #End Doc Library

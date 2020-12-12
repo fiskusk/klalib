@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM7321MF_NOPB
+D Dual Rail-to-Rail Input and Output ±15-V, High-Output Current and Unlimited Capacitive Load Operational Amplifier
+K rail to rail op amp
+F https://www.ti.com/lit/ds/symlink/lm7321.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1607453272691&ref_url=https%253A%252F%252Fcz.mouser.com%252F
+$ENDCMP
+#
+#End Doc Library

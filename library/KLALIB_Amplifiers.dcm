@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CMPA0060002F1
+D 2 W, DC - 6.0 GHz, GaN MMIC Power Amplifier
+K GaN MMIC Power Amplifier
+F https://www.wolfspeed.com/media/downloads/1621/cmpa0060002f1.pdf
+$ENDCMP
+#
 $CMP ERA-33SM
 D Monolitic Amplifier, DC-3 GHz, 50ohm
 K RF Amplifier
@@ -16,6 +22,18 @@ $CMP LTC6101AHS5
 D High Voltage, High-Side Current Sense Amplifier in SOT-23
 K current sense amplifier
 F https://cz.mouser.com/datasheet/2/609/ltc6101.pdf_3fdomain_3dwww.linear-1271897.pdf
+$ENDCMP
+#
+$CMP NBB-310
+D Cascadable Broadband GaAs MMIC Amplifier, 13dB Gain, High P1dB of +15.2dBm at 6GHz, Single Power Supply Operation, 50Ω I/O Matched for High
+K RF Amplifier
+F https://www.qorvo.com/products/p/NBB-310#overview
+$ENDCMP
+#
+$CMP TSC101
+D High-Side Current Sense Amplifier in SOT23-5
+K current sense amplifier
+F https://www.st.com/resource/en/datasheet/tsc101.pdf
 $ENDCMP
 #
 #End Doc Library

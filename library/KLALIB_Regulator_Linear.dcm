@@ -18,4 +18,16 @@ K Voltage Regulator 100mA Positive
 F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
 $ENDCMP
 #
+$CMP TLE4266GSV10
+D 120 mA Positive Voltage, Fixed Output 10V, LDO regulator, 0,28-0,5V drop voltage, SOT-223-4
+K Voltage Regulator LDO 10V  Fixed Positive
+F https://cz.mouser.com/datasheet/2/196/Infineon-TLE4266-DataSheet-v02_61-EN-1662175.pdf
+$ENDCMP
+#
+$CMP TPS7A6650H
+D TPS7A6650H-Q1 40-V, Ultralow-I(q), 150°C-Ambient-Temperature Regulator
+K LDO ultralow voltage dropout regulator
+F https://www.ti.com/lit/ds/symlink/tps7a6650h-q1.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1607448524515&ref_url=https%253A%252F%252Fcz.mouser.com%252F
+$ENDCMP
+#
 #End Doc Library
