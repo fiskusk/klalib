@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM2867E
+D Isolated RS485/RS422 Transciever with ±15 kV IEC ESD, 5.7 kV rms isolated RS-485/RS-422 transceiver, Integrated Isolated DC-DC Converter, 25Mbps, cable auto-invert, Wide operating temperature range: −40°C to +105°C, SOIC-28W
+K RS485 Transciever, RS422 Transciever, Isopower
+F https://cz.mouser.com/ProductDetail/?qs=wnTfsH77Xs7%252BoCV3R3mgVA%3D%3D&fbclid=IwAR13W9th44OAvj5f25nHGnB8a184LWpl1Lt4Qmkt8O6vACpxXbd6t-aH-0Y
+$ENDCMP
+#
+#End Doc Library

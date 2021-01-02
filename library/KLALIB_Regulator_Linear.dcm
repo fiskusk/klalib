@@ -12,10 +12,28 @@ K Single Output LDO Low-Noise
 F http://www.ti.com/lit/ds/symlink/lp5907.pdf
 $ENDCMP
 #
+$CMP LP5907QMFX-3.3Q1
+D 250-mA Ultra-Low-Noise Low-IQ LDO, - 40 C to + 125 C, AEC-Q100
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
 $CMP MC78M09C
 D 500 mA Positive Voltage, Fixed Output 9V, SO-8
 K Voltage Regulator 100mA Positive
 F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MCP1725-5002E_MC
+D 500 mA, Low Voltage, Low Quiescent Current LDO Regulator
+K Single Output LDO Low-Noise
+F https://cz.mouser.com/datasheet/2/268/22026b-78079.pdf
+$ENDCMP
+#
+$CMP TL720M05QKVURQ1
+D 700mA Low-Dropout Voltage Regulator, Fixed Output 5V, automotive, SO-8
+K Voltage Regulator LDO
+F https://cz.mouser.com/ProductDetail/Texas-Instruments/TL720M05QKVURQ1?qs=X4N6sOTYzkgvvsJBwatLrg%3D%3D
 $ENDCMP
 #
 $CMP TLE4266GSV10
@@ -28,6 +46,12 @@ $CMP TPS7A6650H
 D TPS7A6650H-Q1 40-V, Ultralow-I(q), 150°C-Ambient-Temperature Regulator
 K LDO ultralow voltage dropout regulator
 F https://www.ti.com/lit/ds/symlink/tps7a6650h-q1.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1607448524515&ref_url=https%253A%252F%252Fcz.mouser.com%252F
+$ENDCMP
+#
+$CMP TPS7B8150DRVR
+D  150-mA, 40-V, Ultra-Low-IQ, Low-Dropout Regulator
+K Single Output LDO Low-Noise
+F https://www.ti.com/lit/ds/symlink/tps7b81.pdf?ts=1609071305967&ref_url=https%253A%252F%252Fcz.mouser.com%252F
 $ENDCMP
 #
 #End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP102
+D TMP102 Low-Power Digital Temperature Sensor With SMBus and Two-Wire Serial
+K temperature sensor i2c smbus
+F https://www.ti.com/lit/ds/symlink/tmp102.pdf?ts=1609052700647&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP TMP1075DSG
+D I2C-bus digital temperature sensor and thermal watchdog, WSON-8
+K temperature sensor I2C single channel
+F https://www.ti.com/lit/gpn/tmp1075
+$ENDCMP
+#
+#End Doc Library

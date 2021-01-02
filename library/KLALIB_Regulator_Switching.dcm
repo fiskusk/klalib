@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT8609A
+D 42V, 3A Synchronous Step-Down Regulator with 2.5µA Quiescent Current
+K high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3A
+F https://cz.mouser.com/datasheet/2/609/LT8609_8609A_8609B-1551398.pdf
+$ENDCMP
+#
 #End Doc Library
