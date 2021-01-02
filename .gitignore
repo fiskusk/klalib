@@ -2,9 +2,11 @@
 *.bak
 *.bck
 *.tags*
+*.pyc
 
 # list of folders
 tmp
 .venv
 freecad-scripts
 kicad-library-utils
+__pycache__
